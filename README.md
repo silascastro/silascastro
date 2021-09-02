@@ -2,7 +2,7 @@
 ![matrix](https://media.giphy.com/media/ohONS2y8GTDoI/giphy.gif)
 
 
-## 📖 Skills 
+## 📖 It Skills 
   ###  💻 Web
   <br>
   <div>
