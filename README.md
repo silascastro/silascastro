@@ -30,7 +30,6 @@
   ### Hobbies
   - Musician  🎼
   - Games 🕹️
-  - I love music and follow the concert schedules of my favorite  bands 🎫
   - A procura de novos Hobbies 
 
 ![silascastro Github stats](https://github-readme-stats.vercel.app/api?username=silascastro&show_icons=true&theme=dracula)
