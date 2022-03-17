@@ -1,11 +1,8 @@
-### Hi there 👋
-![matrix](https://media.giphy.com/media/ohONS2y8GTDoI/giphy.gif)
+### Oie me chamo Silas 🤟!
 
-
-  ### Hobbies
-  - Musician  🎼
-  - Games 🕹️
-  - A procura de novos Hobbies 
-  - Faço Playlists no [Spotify](https://open.spotify.com/user/silasheadrock) (amo música) - 
+  - Desenvolvedor Web frontend atualmente 
+  - 📚 Estudante de sistemas de informação na UEA 
+  - 🖥️ contribuo para projetos open source
+  
 
 ![silascastro Github stats](https://github-readme-stats.vercel.app/api?username=silascastro&show_icons=true&theme=dracula)
