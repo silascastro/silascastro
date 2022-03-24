@@ -1,6 +1,6 @@
 ### Oie me chamo Silas 🤟!
 
-  - Desenvolvedor Web frontend atualmente 
+  - Desenvolvedor Web frontend 
   - 📚 Estudante de sistemas de informação na UEA 
   - 🖥️ contribuo para projetos open source
   
