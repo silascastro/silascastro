@@ -1,4 +1,4 @@
-### Oie me chamo Silas 🤟!
+### Oie!
 
   - Desenvolvedor Web frontend 
   - 📚 Estudante de sistemas de informação na UEA 
