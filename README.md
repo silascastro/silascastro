@@ -2,6 +2,7 @@
 
   - Desenvolvedor Web frontend 
   - 📚 Estudante de sistemas de informação na UEA 
+  - Dev Frontend
   - 🖥️ contribuo para projetos open source
   
 
