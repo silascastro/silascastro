@@ -1,4 +1,4 @@
-### Oie!
+### Bem vindo ao meu humilde github!
 
   - Desenvolvedor Web frontend 
   - 📚 Estudante de sistemas de informação na UEA 
