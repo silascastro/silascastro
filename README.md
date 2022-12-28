@@ -6,4 +6,6 @@
   - 🖥️ contribuo para projetos open source
   
 
-![silascastro Github stats](https://github-readme-stats.vercel.app/api?username=silascastro&show_icons=true&theme=dracula)
+![silascastro Github stats](https://github-readme-stats.vercel.app/api?username=silascastro&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silascastro&theme=tokyonight)
