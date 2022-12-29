@@ -8,9 +8,9 @@
 ### Github stats 
   
 
-![silascastro Github stats](https://github-readme-stats.vercel.app/api?username=silascastro&show_icons=true&theme=dark)
+![silascastro Github stats](https://github-readme-stats.vercel.app/api?username=silascastro)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silascastro&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silascastro&theme=tokyonight)
 
 
 ### Tech skills
